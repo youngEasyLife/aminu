@@ -19,7 +19,6 @@ public class easySoft {
     /**
      * desc: 冒泡排序
      *
-     *
      * @param sort :
      */
     private static void easySort(int[] sort) {
