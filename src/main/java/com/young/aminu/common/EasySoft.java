@@ -4,12 +4,12 @@ import java.util.Arrays;
 
 /**
  * created with IntelliJ IDEA.
- * author: yang
- * date: 2019/6/23
+ * @author : yang
+ * @date : 2019/6/23
  * time: 21:20
  * desc:
  */
-public class easySoft {
+public class EasySoft {
     public static void main(String[] args) {
         int[] a = new int[]{11, 3, 123, 21321, 12, 1, 2, 434, 21, 3};
         easySort(a);
